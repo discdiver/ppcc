@@ -17,7 +17,9 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 -->
 
-# Prefect Certification Course: Prefect Basics for Workflow Authors
+# Prefect Practioner Certification Course
+
+Prefect Basics for Workflow Authors
 
 ## Introduction
 
